@@ -5,7 +5,8 @@ Bu proje, kullanıcıların GitHub üzerindeki profillerini arayabilmelerini sa�
 ## 🎥 Ekran Kaydı
 
 
-https://github.com/user-attachments/assets/d383879c-ba12-41ed-8fdb-8ae182aab7ab
+![ezgif-5e0c9fd78d15e9](https://github.com/user-attachments/assets/1480fb61-e825-4445-8c33-05f87600fcab)
+
 
 
 
